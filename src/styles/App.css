@@ -307,9 +307,8 @@ body {
 .no-channel {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: 100%;
+  align-items: flex-start;
+  justify-content: flex-start;
 }
 
 .chat-header-mobile {
